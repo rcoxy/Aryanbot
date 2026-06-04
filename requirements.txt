@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+yt-dlp
+Pillow
+moviepy
+gtts
+deep-translator
+requests
